@@ -13,3 +13,5 @@
 
 *.zip
 *.csv
+
+vendor/
